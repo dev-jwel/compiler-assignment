@@ -1,0 +1,10 @@
+{
+	int id ; int id ; float id ; float id ; float [ num ] id ;
+	while ( true ) {
+		int id ;
+		do id = id + num ; while ( id [ id ] < id ) ;
+		do id = id - num ; while ( id [ id ] > id ) ;
+		if ( id >= id ) break ;
+		id = id [ id ] ; id [ id ] = id [ id ] ; id [ id ] = id ;
+	}
+}
